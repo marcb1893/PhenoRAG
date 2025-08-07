@@ -1,0 +1,37 @@
+CLINICAL ASSESSMENT REPORT
+Date: February 21, 2025
+Time: 09:15
+CHIEF COMPLAINT:
+Patient presents with gastrointestinal disturbance and generalized weakness.
+HISTORY OF PRESENT ILLNESS:
+Ms. Rodriguez, a 38-year-old female, presents to the emergency department with symptoms that began approximately 72 hours ago. Patient reports episodes of perceived coldness and shivering, particularly pronounced during evening hours. She describes waking up "drenched in sweat" after experiencing intense shaking episodes.
+Patient demonstrates significant psychomotor retardation during the interview, with delayed response times and apparent difficulty maintaining focus. When prompted, she acknowledges requiring assistance with basic daily activities due to overwhelming exhaustion.
+Upon detailed questioning, patient denies any discomfort in the lumbar region or paraspinal areas. Physical examination reveals no tenderness in the retroperitoneal space bilaterally.
+Notably, patient reports normal urinary habits with no changes in frequency or volume. She denies any discomfort or burning sensations during micturition.
+PHYSICAL EXAMINATION:
+Vital Signs:
+
+BP: 110/70 mmHg
+HR: 92 bpm
+RR: 18/min
+Temp: 38.3°C
+SpO2: 97% on room air
+
+General: Patient appears fatigued, speaking slowly with frequent pauses
+Abdomen: Mild epigastric tenderness, no guarding
+CVA: No tenderness to percussion
+Skin: Warm, slightly diaphoretic
+Neurological: Oriented but with delayed responses
+ASSESSMENT:
+Clinical presentation suggests viral gastroenteritis with associated constitutional symptoms. Differential diagnosis includes early influenza infection.
+PLAN:
+
+IV fluid hydration initiated
+CBC, CMP, and blood cultures ordered
+Antipyretic therapy as needed
+Return precautions discussed
+Follow-up with PCP in 48-72 hours if symptoms persist
+
+Dr. Michael Chen, MD
+License #: 67890
+Emergency Medicine

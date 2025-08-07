@@ -1,0 +1,139 @@
+Clinical Assessment Report
+Patient Information
+Name: [Patient Name]
+DOB: [Date of Birth]
+Date of Examination: February 27, 2025
+Physician: Dr. [Physician Name]
+Chief Complaint
+Patient presents with painful urination, diagnosed nephrolithiasis, and urinary bladder inflammation.
+History of Present Illness
+The patient is a 42-year-old male who presents with a 3-day history of burning discomfort during urination. He describes a dull burning sensation that intensifies toward the end of the urinary stream. The patient reports that urination has become increasingly difficult and painful over the past 24 hours.
+The patient was diagnosed with kidney stones (nephrolithiasis) following a CT scan performed at the emergency department. The scan revealed multiple renal calculi, with the largest measuring 6mm in the right kidney and a 4mm stone in the left kidney.
+The patient appears alert and engaged during the examination, demonstrating no signs of lethargy or sluggishness. He responds promptly to questions and moves without difficulty, showing normal energy levels and activity.
+The patient's temperature is notably below normal at 36.1°C, which has persisted for the past two days according to home measurements.
+Past Medical History
+
+Hypertension (8 years)
+Type 2 diabetes mellitus (5 years)
+Previous episode of nephrolithiasis (3 years ago)
+Gastroesophageal reflux disease
+
+Medications
+
+Lisinopril 20mg daily
+Metformin 1000mg twice daily
+Omeprazole 20mg daily
+Tamsulosin 0.4mg daily (started 1 week ago for nephrolithiasis)
+
+Allergies
+
+Penicillin (rash)
+
+Physical Examination
+Vital Signs:
+
+Temperature: 36.1°C (subnormal)
+Blood Pressure: 138/88 mmHg
+Heart Rate: 82 bpm
+Respiratory Rate: 16/min
+O2 Saturation: 98% on room air
+
+General: Patient is well-nourished, in mild distress due to urinary symptoms. Patient is fully alert and engaged, with no signs of mental or physical sluggishness.
+HEENT: Normocephalic, atraumatic. Mucous membranes are moist.
+Cardiovascular: Regular rate and rhythm. No murmurs, gallops, or rubs.
+Respiratory: Clear to auscultation bilaterally. No wheezes or crackles.
+Genitourinary: Normal external genitalia. No discharge.
+Musculoskeletal: Full range of motion in all extremities. No edema.
+Neurological: Alert and oriented x3. Normal motor strength and sensory function. Patient demonstrates appropriate energy and reaction time, with no evidence of torpor or inactivity.
+Laboratory and Diagnostic Results
+Urinalysis:
+
+Color: Cloudy
+pH: 6.5
+Specific gravity: 1.025
+Protein: Trace
+Glucose: Negative
+Ketones: Negative
+Blood: 3+ (significant)
+Leukocyte esterase: Positive
+Nitrites: Positive
+WBC: 30-50/hpf (elevated)
+RBC: 50-100/hpf (significantly elevated)
+Bacteria: Moderate
+Crystals: Calcium oxalate crystals present
+
+Blood Work:
+
+WBC: 11.2 × 10^9/L (elevated)
+Neutrophils: 75% (elevated)
+Hemoglobin: 14.2 g/dL (normal)
+Platelets: 210 × 10^9/L (normal)
+Creatinine: 1.1 mg/dL (normal)
+BUN: 18 mg/dL (normal)
+Sodium: 138 mEq/L
+Potassium: 4.2 mEq/L
+Chloride: 102 mEq/L
+Bicarbonate: 24 mEq/L
+Calcium: 9.8 mg/dL (normal)
+Uric acid: 7.2 mg/dL (slightly elevated)
+
+Imaging:
+CT scan (performed 1 week ago): Multiple renal calculi bilaterally. Right kidney shows a 6mm stone in the lower pole and two smaller stones (2-3mm). Left kidney shows a 4mm stone in the middle calyces. No evidence of hydronephrosis.
+Renal ultrasound (today): Confirms nephrolithiasis. Bladder wall shows increased thickness (6mm) with mucosal irregularities, consistent with urinary bladder inflammation.
+Urine Culture:
+Pending (collected today)
+Assessment
+
+Acute bacterial cystitis (urinary bladder inflammation) with dysuria
+Nephrolithiasis, bilateral, with multiple renal calculi
+Urinary tract infection, likely secondary to obstruction and stasis
+Subnormal body temperature (36.1°C)
+No evidence of lethargy; patient maintains normal energy and activity levels
+
+Plan
+
+Antibiotic therapy:
+
+Ciprofloxacin 500mg twice daily for 7 days for treatment of urinary bladder inflammation
+Emphasize completion of full course
+
+
+Stone management:
+
+Continue Tamsulosin 0.4mg daily to facilitate stone passage
+Increase fluid intake to 3L daily
+Low sodium, normal calcium diet
+Consider urology referral if stones do not pass within 2 weeks
+
+
+Symptomatic relief:
+
+Phenazopyridine 200mg three times daily for 2 days for dysuria
+NSAIDs (Ibuprofen 600mg every 6 hours as needed) for discomfort
+
+
+Metabolic evaluation:
+
+24-hour urine collection for stone risk factors once infection resolves
+Serum PTH, 25-OH Vitamin D to rule out metabolic causes
+
+
+Temperature monitoring:
+
+Daily temperature checks at home
+Return if temperature falls below 36.0°C
+
+
+Follow-up:
+
+Phone call in 3 days to review urine culture results
+Office visit in 2 weeks for reassessment
+Repeat imaging in 4 weeks if symptomatic
+
+
+
+Additional Notes
+The patient demonstrates good understanding of his condition and management plan. He shows appropriate engagement in his care, with no evidence of mental slowing or physical inactivity. He is advised to maintain a high fluid intake and to strain his urine to check for stone passage. The patient is instructed to return immediately if symptoms worsen, particularly if he experiences high fever, uncontrolled pain, nausea/vomiting, or inability to urinate.
+Electronically signed by:
+Dr. [Physician Name], MD
+February 27, 2025

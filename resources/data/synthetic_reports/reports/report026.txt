@@ -1,0 +1,95 @@
+Clinical Assessment Report
+Patient Information
+Name: [Patient Name]
+DOB: [Date of Birth]
+Date of Examination: February 26, 2025
+Physician: Dr. [Physician Name]
+Chief Complaint
+Patient presents with persistent flank pain and urinary bladder inflammation.
+History of Present Illness
+The patient is a [age]-year-old [gender] who presents with a 5-day history of moderate to severe pain localized to the flank region, particularly on the right side. The patient rates the pain as 7/10 on the pain scale with intermittent exacerbations to 8/10. The discomfort is worse with movement and partially relieved with rest.
+The patient also reports symptoms consistent with urinary bladder inflammation (cystitis) for approximately 3 days, including suprapubic tenderness. They note cloudy urine with occasional small amounts of blood visible. Patient denies any chills or sensation of feeling cold. No episodes of shivering have been reported.
+Patient maintains normal energy levels and denies lethargy, sluggishness, or difficulties initiating or performing routine tasks. The patient has not experienced frequent urination and reports normal urinary intervals throughout the day.
+Past Medical History
+
+Hypertension (controlled)
+Seasonal allergies
+No previous history of kidney stones or UTIs
+
+Physical Examination
+Vital Signs:
+
+Temperature: 37.0°C
+Blood Pressure: 132/85 mmHg
+Heart Rate: 78 bpm
+Respiratory Rate: 14/min
+O2 Saturation: 98% on room air
+
+General: Patient appears in mild distress due to flank pain but is alert, oriented, and shows no signs of torpor or inactivity.
+HEENT: Normocephalic, atraumatic. Mucous membranes are moist.
+Cardiovascular: Regular rate and rhythm. No murmurs, gallops, or rubs.
+Respiratory: Clear to auscultation bilaterally. No wheezes or rales.
+Abdominal: Tenderness to palpation in the right costovertebral angle and flank. Positive flank percussion tenderness. Suprapubic region is tender to palpation. No guarding or rebound tenderness.
+Genitourinary: External genitalia normal. No discharge noted. Normal voiding pattern.
+Musculoskeletal: Full range of motion in all extremities.
+Neurological: Grossly intact. Patient demonstrates normal reaction time and no mental sluggishness.
+Laboratory and Diagnostic Results
+Urinalysis:
+
+WBC: 50-100/hpf (elevated)
+RBC: 10-20/hpf (elevated)
+Nitrites: Positive
+Leukocyte esterase: Positive
+Bacteria: Moderate
+Normal urination frequency recorded in voiding diary
+
+Blood Work:
+
+WBC: 11.2 × 10^9/L (slightly elevated)
+Creatinine: 1.1 mg/dL (normal)
+BUN: 18 mg/dL (normal)
+CRP: 2.4 mg/dL (elevated)
+
+Imaging:
+Renal ultrasound shows mild right-sided hydronephrosis with a 5mm calcification in the proximal ureter. Bladder wall appears thickened with mucosal irregularities consistent with urinary bladder inflammation.
+Assessment
+
+Acute right flank pain due to ureterolithiasis (5mm proximal ureteral stone)
+Urinary bladder inflammation (cystitis) with evidence of bacterial infection
+Mild hydronephrosis secondary to ureteral obstruction
+No evidence of pollakisuria, chills, or lethargy
+
+Plan
+
+Pain management:
+
+Prescription for NSAID (Ketorolac) for management of kidney pain
+Instructions for proper hydration and application of heat to flank area
+
+
+Antibiotic therapy:
+
+Ciprofloxacin 500mg BID for 7 days to address the urinary bladder inflammation
+Urine culture pending for targeted therapy
+
+
+Follow-up plan:
+
+Return in 3 days for reassessment of symptoms
+Repeat urinalysis at follow-up
+Consider CT urogram if no improvement
+
+
+Patient education:
+
+Advised on increased fluid intake
+Strain urine to check for stone passage
+Return to ED immediately if new symptoms develop including chills, lethargy, or unusual urination patterns
+
+
+
+Additional Notes
+The patient remains active and engaged throughout the consultation, with no signs of dullness or inaction. Normal urination patterns continue despite the confirmed urinary bladder inflammation. Provided with educational materials regarding urolithiasis and cystitis.
+Electronically signed by:
+Dr. [Physician Name], MD
+February 26, 2025

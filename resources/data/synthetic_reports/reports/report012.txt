@@ -1,0 +1,57 @@
+INTERDEPARTMENTAL CONSULTATION NOTE
+Medical Center: Riverside Regional
+Date of Service: 21-Feb-2025
+Time of Consultation: 11:20
+REQUESTING SERVICE: Rheumatology
+CONSULTING SERVICE: Infectious Disease
+PATIENT DEMOGRAPHICS:
+Name: Baker, William
+MRN: 2025-0221-445
+Age/Sex: 62/M
+Insurance: BlueCross PPO
+REASON FOR CONSULTATION:
+Evaluation of complex multisystem symptoms with unclear etiology.
+INTERVAL HISTORY:
+Patient transferred from rheumatology clinic for infectious disease consultation following two weeks of progressive symptoms. Recent travel history includes a fishing trip to Lake Michigan. Patient maintains normal thermoregulation throughout the day, though ambient temperature in examination room was notably warm at 24°C.
+REVIEW OF SYSTEMS:
+Constitutional: Profound reduction in baseline functioning. Patient requires significant rest periods between basic activities. Previously independent in all ADLs, now requires assistance with complex tasks. Mini-Mental Status Examination reveals delayed processing speed.
+Genitourinary: Previously documented urinary symptoms have resolved. Current urodynamic studies demonstrate normal frequency and flow rates. Patient specifically denies any burning or discomfort with micturition.
+Musculoskeletal: Sharp, intermittent pain noted in the right paravertebral region with radiation to the posterior superior iliac spine. Pain exacerbated by percussion. Positive jump sign on right-sided costovertebral angle palpation.
+LABORATORY DATA:
+CBC:
+
+WBC: 11.2 x 10^9/L (↑)
+Hgb: 13.4 g/dL
+Plt: 245 x 10^9/L
+
+Chemistry:
+
+Na: 138 mEq/L
+K: 4.1 mEq/L
+Cr: 1.2 mg/dL
+ESR: 45 mm/hr (↑)
+CRP: 2.8 mg/dL (↑)
+
+DIAGNOSTIC IMAGING:
+MRI Lumbar Spine (2025-02-20):
+Signal abnormality noted in right psoas muscle with accompanying inflammatory changes.
+IMPRESSION & RECOMMENDATIONS:
+
+High clinical suspicion for psoas abscess with accompanying constitutional symptoms
+Recommend CT-guided aspiration
+Empiric broad-spectrum antibiotics pending culture results
+Daily monitoring of inflammatory markers
+Physical therapy consultation for mobility assessment
+
+FOLLOW-UP PLAN:
+
+Daily ID service rounds
+Coordinate with interventional radiology for procedure scheduling
+Weekly rheumatology follow-up
+Consider infectious disease clinic follow-up post-discharge
+
+
+Dr. Amelia Foster, MD, FIDSA
+Infectious Disease Department
+Pager: 555-0123
+Extension: 4567

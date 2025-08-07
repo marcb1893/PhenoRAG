@@ -1,0 +1,17 @@
+Clinical Report
+
+Patient: Female, 45 years old
+Chief Complaint: Generalized malaise and urinary disturbances
+
+History of Present Illness:
+The patient describes a gradual onset of urinary irregularities, primarily noting a sense of incomplete voiding and a subtle but persistent need to urinate more frequently than usual, especially in the later hours of the day. While she denies experiencing outright pain, she mentions an intermittent awareness of discomfort localized to the lower abdomen. She also reports occasional difficulty in initiating tasks, attributing it to general tiredness rather than any specific neurological issue. There have been no recent fevers, tremors, or episodes of uncontrollable shivering. Additionally, she does not recall experiencing any notable unilateral discomfort in the torso region.
+
+Review of Systems:
+
+    General: Feels "less energetic than usual" but remains functional in daily activities.
+    Genitourinary: Increased urinary frequency without significant distress; no severe burning sensation reported.
+    Musculoskeletal: No acute or localized pain complaints.
+    Neurological: Mild sluggishness reported but no cognitive deficits noted.
+
+Assessment & Plan:
+The patient’s urinary symptoms suggest a possible mild irritative process, and further evaluation is warranted to exclude underlying infection or metabolic contributors. A urinalysis and renal ultrasound will be considered if symptoms persist. No immediate intervention is necessary for reported fatigue unless it progresses. Conservative symptom monitoring and hydration are advised.

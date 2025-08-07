@@ -1,0 +1,27 @@
+################################################################
+################################################################
+# SETTING THE ARGUMENTS FOR INFERENCE
+
+# [Required]
+# llama_dir_base: directory of Llama base model
+# sent_transformer_dir: directory of sentence transformer
+# context_dir: directory of context data folder (e.g. directory to context_HCY or context_UTI folder in this repo)
+# stanza_dir: directory of stanza resources
+# input_dir: a) directory of input text files  OR  b) UTI (if translated UTI reports should be processed)
+# output_dir: directory for storing results
+
+# [Optional: if provided, fine-tuned model will be used]
+# llama_dir_ft: directory of fine-tuned Llama model
+
+################################################################
+
+# [Required]
+llama_dir_base:
+sent_transformer_dir:
+context_dir:
+stanza_dir:
+input_dir:
+output_dir:
+
+# [Optional]
+llama_dir_ft:

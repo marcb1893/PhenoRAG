@@ -1,0 +1,138 @@
+Clinical Assessment Report
+Patient Information
+Name: [Patient Name]
+DOB: [Date of Birth]
+Date of Examination: February 27, 2025
+Physician: Dr. [Physician Name]
+Chief Complaint
+Patient presents with chronic kidney disease, recurrent urinary tract infections, and progressive fatigue.
+History of Present Illness
+The patient is a 68-year-old female with a long-standing history of recurrent urinary tract infections (UTIs), presenting today with worsening symptoms of lethargy and general malaise. The patient reports having experienced at least 6 documented UTIs in the past 12 months, with the most recent infection occurring approximately 2 weeks ago. The patient completed a course of nitrofurantoin for the most recent UTI but reports persistent symptoms.
+The patient has been experiencing progressive lethargy over the past 3-4 months, describing a significant lack of energy and difficulty completing routine daily tasks despite having the desire to do so. Simple activities such as preparing meals or performing household chores now require substantial effort and often remain incomplete due to overwhelming fatigue. The patient reports sleeping 10-12 hours per night but waking unrefreshed. Family members have noted increased slowness in the patient's movements and speech.
+The patient has a 5-year history of chronic kidney disease (CKD), currently stage 3b (eGFR 35 mL/min/1.73m²), which has been progressively worsening over the past year despite medication adherence and dietary modifications.
+Past Medical History
+
+Chronic kidney disease (CKD), stage 3b, diagnosed 5 years ago
+Recurrent urinary tract infections (documented 6 times in the past year)
+Hypertension (15 years)
+Type 2 diabetes mellitus (12 years)
+Hyperlipidemia
+Osteoarthritis
+
+Medications
+
+Lisinopril 10mg daily
+Metformin 500mg twice daily
+Atorvastatin 20mg daily
+Calcium acetate 667mg with meals
+Ergocalciferol 50,000 IU weekly
+Nitrofurantoin 100mg completed 2 weeks ago
+
+Physical Examination
+Vital Signs:
+
+Temperature: 36.4°C
+Blood Pressure: 148/92 mmHg
+Heart Rate: 72 bpm
+Respiratory Rate: 16/min
+O2 Saturation: 96% on room air
+Weight: 72 kg (decrease of 3 kg since last visit 3 months ago)
+
+General: Patient appears fatigued and moves slowly. Skin is notably cool to touch, particularly in the extremities, with slight pallor. Patient displays torpor in responses and movements.
+HEENT: Normocephalic, atraumatic. Mucous membranes are dry. No oral lesions.
+Cardiovascular: Regular rate and rhythm. No murmurs, gallops, or rubs.
+Respiratory: Clear to auscultation bilaterally. No crackles or wheezes.
+Abdominal: Soft, non-tender, non-distended. No organomegaly.
+Extremities: No edema. Skin cool to palpation with delayed capillary refill (3 seconds).
+Neurological: Alert and oriented x3 but with delayed responses. No focal deficits. Patient demonstrates marked sluggishness in performing simple cognitive tasks.
+Laboratory and Diagnostic Results
+Urinalysis:
+
+WBC: 20-30/hpf (elevated)
+RBC: 5-10/hpf (elevated)
+Leukocyte esterase: Positive
+Nitrites: Negative
+Protein: 2+ (100 mg/dL)
+Bacteria: Few
+
+Blood Work:
+
+Hemoglobin: 9.8 g/dL (low)
+Hematocrit: 29.5% (low)
+WBC: 7.2 × 10^9/L (normal)
+Platelets: 185 × 10^9/L (normal)
+BUN: 48 mg/dL (elevated)
+Creatinine: 2.1 mg/dL (elevated)
+eGFR: 32 mL/min/1.73m² (decreased from 35 three months ago)
+Sodium: 136 mEq/L
+Potassium: 5.2 mEq/L (slightly elevated)
+Chloride: 102 mEq/L
+Bicarbonate: 19 mEq/L (low)
+Calcium: 8.6 mg/dL (low normal)
+Phosphorus: 4.8 mg/dL (elevated)
+PTH: 110 pg/mL (elevated)
+Vitamin D, 25-OH: 18 ng/mL (low)
+
+Urine Culture (from 2 weeks ago):
+
+E. coli >100,000 CFU/mL, sensitive to nitrofurantoin
+
+Renal Ultrasound:
+Bilateral small kidneys with increased echogenicity and decreased cortical thickness consistent with chronic kidney disease. No hydronephrosis or calculi.
+Assessment
+
+Chronic kidney disease, stage 3b, with recent decline in renal function (eGFR decreased from 35 to 32 mL/min/1.73m²)
+Recurrent urinary tract infections with evidence of current active infection despite recent antibiotic course
+Significant lethargy and fatigue, likely multifactorial:
+
+Chronic kidney disease with uremic symptoms
+Anemia of chronic kidney disease
+Recurrent infections
+Possible depression
+
+
+Renal osteodystrophy with secondary hyperparathyroidism
+Hypertension, inadequately controlled
+Cool extremities with delayed capillary refill, suggesting poor peripheral perfusion
+No signs of nephrolithiasis explaining the current flank pain (as evidenced by renal ultrasound showing no hydronephrosis or calculi)
+
+Plan
+
+Chronic Kidney Disease Management:
+
+Increase lisinopril to 20mg daily for better blood pressure control
+Referral to nephrology for consideration of arteriovenous fistula placement in preparation for potential future dialysis
+Increase ergocalciferol to 50,000 IU twice weekly
+Add sevelamer 800mg with meals to better control phosphorus
+
+
+Recurrent UTI Management:
+
+Culture current urine specimen for targeted antibiotic therapy
+Consider prophylactic antibiotics after resolution of current infection
+Urology referral for cystoscopy to rule out structural abnormalities
+Increase fluid intake to 2-2.5L daily as tolerated
+
+
+Lethargy/Fatigue Management:
+
+Initiate erythropoietin therapy for anemia of CKD
+Screen for depression with PHQ-9
+Occupational therapy consultation for energy conservation techniques
+Nutritional consultation for optimization of renal diet
+
+
+Follow-up:
+
+Nephrology appointment within 1 week
+Primary care follow-up in 2 weeks
+Laboratory reassessment in 1 week
+Telephone check-in by nurse case manager in 3 days
+
+
+
+Additional Notes
+The patient's presentation of worsening lethargy, inactivity, and slowness in combination with declining renal function and recurrent UTIs suggests progression of her chronic kidney disease with multiple complications. The cool skin temperature and delayed capillary refill warrant close monitoring of cardiovascular status. Patient education provided regarding the importance of medication adherence, fluid intake, and recognizing signs of worsening renal function or infection.
+Electronically signed by:
+Dr. [Physician Name], MD
+February 27, 2025

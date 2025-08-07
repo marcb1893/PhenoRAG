@@ -1,0 +1,38 @@
+CLINICAL ASSESSMENT REPORT
+Date: February 21, 2025
+Time: 16:45
+CHIEF COMPLAINT:
+Patient presents with chronic fatigue and lower back discomfort.
+HISTORY OF PRESENT ILLNESS:
+Mrs. Thompson, a 52-year-old female, was referred to our outpatient clinic for evaluation of persistent symptoms spanning the last 3 weeks. Initial examination reveals stable body temperature regulation without any documented episodes of temperature dysregulation during the entire course of illness.
+Patient demonstrates remarkable alertness and engagement during the consultation, actively participating in the discussion of her symptoms. She maintains an active lifestyle, including regular yoga practice, and reports no interference with her daily activities or energy levels.
+Of particular concern is the patient's description of persistent discomfort in both lateral aspects of her lower back, most pronounced after prolonged sitting. The pain pattern follows a consistent distribution along the posterior axillary lines, extending inferiorly from the 12th rib to the iliac crests.
+Patient describes increased urgency and frequency of urination. Additionally, she reports experiencing a characteristic stinging sensation during voiding, which has persisted despite increased fluid intake.
+PHYSICAL EXAMINATION:
+Vital Signs:
+
+BP: 135/85 mmHg
+HR: 82 bpm
+RR: 14/min
+Temp: 36.8°C
+SpO2: 98% on room air
+
+General: Well-appearing female in no acute distress
+Abdomen: Soft, non-distended
+Murphy's Sign: Negative
+CVA: Positive tenderness bilaterally
+Musculoskeletal: Normal range of motion
+Neurological: Alert and oriented, normal affect
+ASSESSMENT:
+Clinical presentation suggests bilateral renal colic with associated urinary tract infection. Will require further diagnostic imaging to rule out nephrolithiasis.
+PLAN:
+
+CT urogram ordered
+Urine culture and sensitivity
+Prescription for appropriate antibiotics pending culture results
+Pain management protocol initiated
+Scheduled follow-up in 7 days with imaging results
+
+Dr. Robert Williams, MD
+License #: 34567
+Internal Medicine

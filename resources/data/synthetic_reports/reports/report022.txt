@@ -1,0 +1,28 @@
+Patient Report:
+
+Patient Information:
+Name: [Patient's Name]
+Age: 42 years
+Gender: Female
+
+Reason for Visit:
+The patient presents with fatigue, flank discomfort, and altered urinary habits.
+
+History of Present Illness:
+The patient reports persistent fatigue, primarily in the afternoons, resulting in difficulty initiating tasks. She feels mentally sluggish and lacks energy for routine activities, suggesting lethargy.
+
+She also describes dull, localized pain in the left flank, aggravated by prolonged sitting or physical exertion. No sharp pain or significant tenderness is noted.
+
+Urinary frequency has increased, although the patient does not experience dysuria, urgency, or nocturia.
+
+The patient denies chills, shivering, or noticeable temperature fluctuations.
+
+Review of Systems:
+
+    General: No fever, chills, or weight loss.
+    Constitutional: Fatigue, sluggishness, and lethargy.
+    Musculoskeletal: Mild left flank discomfort.
+    Urinary: Increased urination frequency, no dysuria.
+
+Physical Examination:
+The patient appears fatigued but in no acute distress. Left flank tenderness is noted, with no guarding or rebound tenderness. Vital signs are stable.

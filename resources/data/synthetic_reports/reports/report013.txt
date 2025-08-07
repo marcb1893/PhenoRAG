@@ -1,0 +1,60 @@
+EMERGENCY DEPARTMENT ADMISSION NOTE
+Facility: Metropolitan General Hospital
+Documentation Time: 21-Feb-2025 02:15
+TRIAGE CATEGORY: Level 3
+MODE OF ARRIVAL: Ambulatory
+ACCOMPANYING PERSON: Spouse
+INITIAL ASSESSMENT:
+32-year-old female software engineer presenting to ED with nocturnal symptoms. Patient's spouse reports patient experiencing uncontrollable shivering episodes with chattering teeth during the past 24 hours, despite ambient temperature of 22°C. Multiple episodes documented by home temperature monitoring showing spikes to 38.9°C during rigors.
+PATIENT CONDITION AT PRESENTATION:
+Alert but markedly energetic and restless. Demonstrates hyperactive behavior with rapid speech and excessive movement during examination. Patient repeatedly gets up to pace the room, displaying no signs of energy deficit or reduced activity level.
+SYSTEMS REVIEW:
+GI/GU System:
+
+Micturition occurs at regular 4-6 hour intervals
+No changes in baseline urinary pattern noted
+Denies dysregulation of bladder habits
+Reports comfortable voiding without burning
+
+Musculoskeletal:
+Significant tenderness noted on palpation of left renal angle with percussion pain radiating anteriorly. Patient assumes unique position with left hand pressed against ipsilateral flank for comfort.
+NURSING NOTES:
+0200: Patient received to ED bay 4
+0210: VS obtained, PIV placed
+0230: Urinalysis specimen collected
+0245: First dose antipyretics administered
+VITAL SIGNS TREND:
+Time      | BP     | HR | RR | T(°C) | SpO2
+0200      | 142/88 | 98 | 20 | 38.7  | 99%
+0230      | 138/84 | 92 | 18 | 38.9  | 98%
+0300      | 135/82 | 88 | 16 | 38.2  | 99%
+POINT OF CARE TESTING:
+Urinalysis:
+
+Leukocyte esterase: Positive
+Nitrites: Positive
+WBC: >50/hpf
+RBC: 5-10/hpf
+Bacteria: Moderate
+
+CLINICAL IMPRESSION:
+Acute pyelonephritis with associated constitutional symptoms
+IMMEDIATE INTERVENTIONS:
+
+IV fluid resuscitation initiated
+Blood cultures drawn
+Broad-spectrum antibiotics ordered
+Pain management protocol implemented
+Antipyretic therapy continued
+
+DISPOSITION PLAN:
+☒ Admit to Medical Ward
+☐ Discharge Home
+☐ Transfer to Other Facility
+☐ Observation Unit
+Expected Duration of Stay: 48-72 hours
+
+Dr. James Patterson
+Emergency Medicine Attending
+Badge #: ED-2025-445
+Time Completed: 03:15

@@ -1,0 +1,17 @@
+Clinical Report
+
+Patient: Male, 57 years old
+Chief Complaint: Generalized fatigue and urinary symptoms
+
+History of Present Illness:
+The patient presents with a gradual onset of urinary difficulties over the past week, noting a pattern of frequent trips to the restroom, particularly during the evening hours. While there is no persistent discomfort, he describes a vague sensation during micturition that he struggles to articulate. Despite these symptoms, he remains active in his daily routine, though he acknowledges that tasks requiring sustained effort seem more taxing than usual. No complaints of tremors or shivering, and he does not recall any recent episodes of feeling abnormally cold. There is no significant musculoskeletal discomfort beyond occasional stiffness after prolonged sitting, which resolves with movement.
+
+Review of Systems:
+
+    General: Reports feeling "slower than usual" but denies extreme fatigue.
+    Genitourinary: Increased urinary frequency without significant urgency; mild discomfort at times.
+    Musculoskeletal: No focal pain; occasional stiffness after inactivity.
+    Neurological: No complaints of slowed cognition or abnormal coordination.
+
+Assessment & Plan:
+The described urinary symptoms raise suspicion for a mild lower urinary tract issue. A urinalysis and renal function assessment will be performed to rule out infection or early obstructive pathology. The patient's reported change in energy levels may warrant further evaluation if symptoms persist or worsen. Conservative management with hydration and symptom monitoring is advised.

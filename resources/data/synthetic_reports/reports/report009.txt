@@ -1,0 +1,35 @@
+CLINICAL ASSESSMENT REPORT
+Date: February 21, 2025
+Time: 14:30
+CHIEF COMPLAINT:
+Patient presents with general malaise and urinary tract concerns developing over the past week.
+HISTORY OF PRESENT ILLNESS:
+Mr. Johnson, a 45-year-old male, presents to the urgent care clinic reporting increasing discomfort over the past 5 days. Initially experiencing mild symptoms, the condition has progressively worsened. The patient denies experiencing shivers or cold sensations despite the warm clinic environment. He maintains normal body temperature and stable vital signs.
+The patient reports experiencing a constant urge to void, necessitating bathroom visits approximately every 1-2 hours throughout the day. During examination, patient described a burning sensation upon micturition, particularly notable during the morning void.
+Physical activity has remained unaffected, with the patient maintaining his regular exercise routine and displaying normal energy levels without any signs of sluggishness or fatigue. When questioned about discomfort location, patient indicated sharp pain radiating from the left posterior costal margin to the iliac region.
+PHYSICAL EXAMINATION:
+Vital Signs:
+
+BP: 128/82 mmHg
+HR: 76 bpm
+RR: 16/min
+Temp: 37.1°C
+SpO2: 99% on room air
+
+General: Patient appears well-nourished, alert, and in mild distress
+Abdomen: Soft, non-tender centrally
+Costovertebral Angle Tenderness: Positive on left side
+Skin: Warm and dry, normal turgor
+Neurological: Alert and oriented, appropriate affect
+ASSESSMENT:
+Clinical presentation suggests acute pyelonephritis with associated urinary symptoms. Patient maintains adequate hydration and shows no signs of systemic involvement.
+PLAN:
+
+Empiric antibiotic therapy initiated
+Urinalysis and urine culture ordered
+Follow-up appointment scheduled in 7 days
+Patient educated about warning signs requiring immediate medical attention
+
+Dr. Sarah Matthews, MD
+License #: 12345
+Emergency Medicine

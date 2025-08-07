@@ -1,0 +1,35 @@
+EMERGENCY DEPARTMENT ASSESSMENT NOTE
+Date: February 21, 2025
+Time: 23:45
+PRESENTING SITUATION:
+48-year-old female self-referred to ED with evolving symptom complex over 36 hours.
+SUBJECTIVE:
+Patient describes progressive onset of constitutional symptoms following recent international travel. Notes marked difficulty maintaining wakeful state during daytime hours, requiring multiple unplanned rest periods. Patient repeatedly dozed off during initial triage assessment.
+Significant autonomic symptoms reported, including violent shaking episodes during evening hours with measured temperature elevation to 38.9°C. Patient brought personal blankets to ED due to perceived cold intolerance.
+No localizing discomfort in lumbar region or lateral aspect of trunk noted during detailed review of systems. Patient explicitly denies any sensation of pressure or pain in renal distribution.
+OBJECTIVE:
+Vital Parameters:
+T: 38.7°C
+BP: 142/88
+HR: 96
+RR: 18
+O2 Sat: 98% RA
+Constitutional: Patient presents in bed, wrapped in multiple layers despite ambient temperature of 23°C. Observed shifting positions frequently for comfort. Decreased alertness noted during interview with delayed verbal responses.
+GU Assessment: Reports normal urinary output with typical frequency pattern. Denies any dysesthetic phenomena during micturition process. Bladder scan reveals normal residual volume.
+PHYSICAL FINDINGS:
+
+HEENT: Mild conjunctival injection
+CVS: Tachycardic but regular rhythm
+RESP: Clear to auscultation bilaterally
+ABD: Soft, non-tender throughout all quadrants including costovertebral angles
+NEURO: Slightly delayed cognitive processing, otherwise grossly intact
+
+EMERGENCY PHYSICIAN ASSESSMENT:
+Presentation consistent with post-travel viral syndrome with prominent constitutional manifestations. No evidence of genitourinary or renal involvement.
+DISPOSITION PLAN:
+
+IV hydration initiated
+Antipyretic protocol
+Serial neurological checks
+Infectious Disease consultation pending
+Admission to Medical Service for observation

@@ -1,0 +1,10 @@
+import nltk
+import stanza
+
+# download nltk_data
+nltk.download("stopwords")
+nltk.download("wordnet")
+nltk.download("averaged_perceptron_tagger")
+nltk.download("punkt")
+# download stanza models
+stanza.download("en", package="mimic", processors={"ner": "i2b2"})
